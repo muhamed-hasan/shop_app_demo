@@ -6,11 +6,30 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Demo shop app with flutter 
+The application runs on Android /Ios /Web /Windows /MacOs / Linux
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+the back-end with fire base auth + firebase databse using the web api key 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## How To Build App
+Open the project using vs Code or Android studio
+create your firebase account and project and but your web api key in Auth.dart 
+
+### Build an APK
+
+https://flutter.dev/docs/deployment/android
+
+### Build Ios
+https://flutter.dev/docs/deployment/ios
+
+### Build MacOs 
+https://flutter.dev/docs/deployment/macos
+
+### Build Linux
+https://flutter.dev/docs/deployment/linux
+
+### Build webApp
+https://flutter.dev/docs/deployment/web
+
+
+
